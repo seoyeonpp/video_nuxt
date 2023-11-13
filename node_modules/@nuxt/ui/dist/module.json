@@ -1,0 +1,8 @@
+{
+  "name": "@nuxt/ui",
+  "version": "2.8.1",
+  "configKey": "ui",
+  "compatibility": {
+    "nuxt": "^3.0.0-rc.8"
+  }
+}
